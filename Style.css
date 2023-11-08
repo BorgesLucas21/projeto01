@@ -1,9 +1,9 @@
 #chapolin{
     width: 100px;
-    border: solid 3px black;
+    border: solid 3px rgb(0, 0, 0);
 }
 
 .principal{
     background: black;
-    color: white;
+    color: black;
 }
