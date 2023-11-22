@@ -1,3 +1,5 @@
 .cabecalhinho{
     border: 10px;
+    border-color: goldenrod;
+    border-style: dashed;
 }
