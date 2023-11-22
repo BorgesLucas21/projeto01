@@ -1,9 +1,9 @@
 .cabecalhinho{
-    background-color: white;
+    background-color: rgb(44, 39, 39);
     border: 10px;
     border-color: goldenrod;
     border-style: dashed;
     margin: 10px;
-    color: rgb(32, 30, 30)04, 180, 180);
+    color: rgb(255, 255, 255)04, 180, 180);
     font-weight: 400;
 }
