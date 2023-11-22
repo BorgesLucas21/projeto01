@@ -4,6 +4,15 @@
     border-color:goldenrod;
     border-style: dashed;
     margin: 10px;
-    color: rgb(255, 255, 255)04, 180, 180);
+    color: rgb(255, 255, 255);
     font-weight: 400;
+}
+
+.principal{
+    background-color: black;
+    border: 10px;
+    border-color: white;
+    border-style: double;
+    margin: 30px;
+    color: blueviolet;
 }
