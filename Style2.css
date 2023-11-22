@@ -1,6 +1,9 @@
 .cabecalhinho{
+    background-color: white;
     border: 10px;
     border-color: goldenrod;
     border-style: dashed;
     margin: 10px;
+    color: white;
+    font-weight: 400;
 }
