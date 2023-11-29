@@ -9,19 +9,16 @@
     font-weight: 400;
 }
 
-#Guepardo-olhando{
-
-}
 
 .lista-links{
     font-size: 30px;
-    color: white;
+    color: goldenrod;
 
 }
 .lista-links:hover{
     font-size: 40px;
-    color: white;
-    
+    color: goldenrod;
+
 
 }
 .principal{
