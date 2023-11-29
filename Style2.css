@@ -1,3 +1,4 @@
+
 .cabecalhinho{
     background-color: rgb(36, 36, 36);
     border: 10px;
@@ -12,6 +13,17 @@
 
 }
 
+.lista-links{
+    font-size: 30px;
+    color: white;
+
+}
+.lista-links:hover{
+    font-size: 40px;
+    color: white;
+    
+
+}
 .principal{
     background-color: black;
     border: 10px;
